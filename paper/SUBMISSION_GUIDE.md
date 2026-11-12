@@ -12,7 +12,7 @@
 ## Manuscript Details
 - **Title**: *Three New Transiting Sub-Neptune and Super-Earth Candidates Orbiting Nearby K and M Dwarfs in TESS Photometry*
 - **Author**: Akshat Rastogi
-- **Affiliation**: DigiKarmi AI Research, Mumbai, India
+- **Affiliation**: None (Independent Researcher / No affiliation)
 - **Email**: akshat28vivek@gmail.com
 - **Repository**: https://github.com/AkshatRastogi-1nC0re/tess-subneptune-candidates
 - **Candidates Reported**:
@@ -54,7 +54,7 @@ All files are prepared in: `C:\Users\tfyuk\Jaadu\research\exoplanet\publication\
 - **Title**: Three New Transiting Sub-Neptune and Super-Earth Candidates Orbiting Nearby K and M Dwarfs in TESS Photometry
 - **Abstract**: (Copy from `rnaas_exoplanets.tex` or `rnaas_exoplanets.html`)
 - **Keywords**: Exoplanet astronomy (486); Planetary system candidates (1258); Transit photometry (1709); Super Earths (1655); M dwarf stars (982); K dwarf stars (882)
-- **Author**: Akshat Rastogi (DigiKarmi AI Research)
+- **Author**: Akshat Rastogi (Independent / No affiliation)
 
 ### Step 5: Review PDF & Final Submission
 1. Build the system PDF preview, confirm formatting of Figure 1 and references.

@@ -1,7 +1,7 @@
 # Three New Transiting Sub-Neptune / Super-Earth Exoplanet Candidates from a 2,173-Star TESS Survey
 
 **Principal Investigator / Discoverer**: Akshat Rastogi  
-**Affiliation**: DigiKarmi AI Research / Independent Exoplanet Research  
+**Affiliation**: None (Independent Exoplanet Researcher)  
 **Survey Baseline**: NASA TESS Photometry (Sectors 14–76, spanning 2019–2024)  
 **Survey Footprint**: 2,173 nearby K and M dwarfs in Ursa Major and Draco (RA 150°–240°, Dec +50°–+75°)  
 
